@@ -1,0 +1,33 @@
+
+table, th, td{
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+#main{
+	margin-left:20%;
+}
+ul li:nth-child(even){
+	color:red;
+}
+ul li:nth-child(odd){
+	color:blue;
+}
+#second_list{
+	font-style: italic;
+}
+#red_underline{
+	color:red;
+	text-decoration:underline;
+}
+#black_underline{
+	text-decoration:underline;
+}
+#highlight{
+	font-style: italic;
+	font-weight: bold;
+}
+#first_underline{
+	text-decoration:underline;
+}
+
+	
